@@ -86,16 +86,9 @@
     text-align: center;
   }
   .section__pic-container {
-    display: flex;
-    align-items: center;
-    margin: 0 auto;
     width: auto;
     height: 46vw;
     justify-content: center;
-  }
-  .section__pic-container img {
-    max-width: 80%;
-    height: auto;
   }
   .section__text__p2 {
     font-size: 1.25rem;
